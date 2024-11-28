@@ -1,0 +1,20 @@
+[tool.poetry]
+name = "app"
+version = "0.1.0"
+description = ""
+authors = ["mimansha11 <sharmamimansha7@gmail.com>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.12"
+fastapi = "0.104.1"
+llama-index = "0.9.19"
+pypdf = "3.17.0"
+python-dotenv = "1.0.0"
+uvicorn = {version = "0.23.2", extras = ["standard"]}
+pymongo = "^4.10.1"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
