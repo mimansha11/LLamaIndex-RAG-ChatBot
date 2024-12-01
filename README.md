@@ -3,7 +3,7 @@
 
 BACKEND🔗🔗:
 
-Getting Started
+Getting Started-------------------------------------------------------------
 First, setup the environment:
 
     poetry install
@@ -47,7 +47,9 @@ You can check out the LlamaIndex GitHub repository - your feedback and contribut
 
 
 Frontend 🔗🔗:
-Getting Started
+
+
+Getting Started----------------------------
 First, install the dependencies:
 
     npm install
